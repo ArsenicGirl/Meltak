@@ -33,3 +33,10 @@ Hacer correr el servidor (\Meltak\Metalk_interface> npm run dev)
 ```
 npm run dev
 ```
+
+# Hacer funcionar las rutas
+
+Instalar:
+```
+npm install svelte-spa-router
+```
