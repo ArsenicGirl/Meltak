@@ -4,6 +4,8 @@ Crear proyecto con vite con:
 ```
 npm create vite@latest
 ```
+npm install svelte@latest vite@latest
+----
 Elegir la opción de Svelte
 
 Descargar dependecias node
@@ -40,3 +42,5 @@ Instalar:
 ```
 npm install svelte-spa-router
 ```
+
+
